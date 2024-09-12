@@ -39,7 +39,8 @@ const Experience = () => {
         <div class="row-span-4 flex justify-start  items-center hover:image-slate-900">
           <img
             className=" grayscale hover:grayscale-0 rounded-t-full"
-            src="images/home-photo-3.webp"
+            src="images/dj.webp"      
+            // home-photo-3.JPG
             alt=""
           />
         </div>
